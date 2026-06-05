@@ -37,3 +37,4 @@ FROM 'C:/PostgreSQL_data/shipments.csv'
 DELIMITER ','
 CSV HEADER
 
+
